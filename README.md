@@ -20,8 +20,8 @@ File name: Sales-Data-Analysis.csv
 
 Format: CSV (comma-separated values)
 
-**📑 Columns include:
-**
+**📑 Columns include:**
+
 Customer ID / Name → unique identifier for customers
 
 Product details → name/category of the purchased product
@@ -45,3 +45,4 @@ Whether males or females purchase more
 Regional revenue distribution
 
 Time-based trends (if dates are available)
+
