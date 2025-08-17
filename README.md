@@ -1,6 +1,6 @@
-📊 Sales Data Analysis
+**📊 Sales Data Analysis**
 
-📌 About
+**📌 About**
 
 This project is based on a dataset Sales-Data-Analysis.csv, which is useful for practicing and applying key data science concepts:
 
@@ -14,13 +14,13 @@ This project is based on a dataset Sales-Data-Analysis.csv, which is useful for 
 
 🧑‍🤝‍🧑 Customer Segmentation (based on Age Groups and Gender — added by me as extra feature engineering)
 
-📂 Dataset Details
+**📂 Dataset Details**
 
 File name: Sales-Data-Analysis.csv
 
 Format: CSV (comma-separated values)
 
-📑 Columns include:
+**📑 Columns include:**
 
 Customer ID / Name → unique identifier for customers
 
@@ -34,7 +34,7 @@ Age (Randomly Generated) → added to simulate real-world demographics
 
 Gender (Randomly Generated) → added to analyze gender-based purchase patterns
 
-🔑 Key Insights 
+**🔑 Key Insights **
 
 Which products generate the most revenue
 
@@ -45,3 +45,4 @@ Whether males or females purchase more
 Regional revenue distribution
 
 Time-based trends (if dates are available)
+
