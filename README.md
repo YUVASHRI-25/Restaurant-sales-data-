@@ -34,7 +34,7 @@ Age (Randomly Generated) → added to simulate real-world demographics
 
 Gender (Randomly Generated) → added to analyze gender-based purchase patterns
 
-**🔑Key Insights **
+**Key Insights**
 
 Which products generate the most revenue
 
@@ -45,6 +45,7 @@ Whether males or females purchase more
 Regional revenue distribution
 
 Time-based trends (if dates are available)
+
 
 
 
